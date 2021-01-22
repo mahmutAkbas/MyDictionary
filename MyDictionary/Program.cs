@@ -109,12 +109,10 @@ namespace MyDictionary
         {
             get { return keys.Length; }
         }
-
         public V[] Values
         {
             get { return values; }
         }
-
         public K[] Keys
         {
             get { return keys; }
